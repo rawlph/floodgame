@@ -4,7 +4,7 @@ A browser-based flood game project.
 
 ## Description
 
-This project implements a flood game where players strategically flood the board with colors to capture the maximum territory.
+~_~ flood is coming ~_~
 
 ## Setup
 
